@@ -34,6 +34,15 @@ Re-implement a selection of standard C library functions from scratch
 
 👉 [View Project](https://github.com/jayelinjiaqi/42_libft)
 
+---
+
+### 🔹 ** PySpark ML **
+This project builds a machine learning regression model to predict prices using PySpark.
+
+**Tech:** PySpark
+
+👉 [View Project](https://github.com/jayelinjiaqi/Spark-Real-Time-Prediction)
+
 
 <!--
 **jayelinjiaqi/jayelinjiaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
